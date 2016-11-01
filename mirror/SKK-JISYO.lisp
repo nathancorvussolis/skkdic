@@ -15,9 +15,9 @@
 ;; SKK Development Team <skk@ring.gr.jp>
 ;;
 ;; Maintainer: SKK Development Team <skk@ring.gr.jp>
-;; Version: $Id: SKK-JISYO.lisp,v 1.4 2015/07/11 13:40:16 skk-cvs Exp $
+;; Version: $Id: SKK-JISYO.lisp,v 1.5 2016/10/06 12:02:21 skk-cvs Exp $
 ;; Keywords: japanese
-;; Last Modified: $Date: 2015/07/11 13:40:16 $
+;; Last Modified: $Date: 2016/10/06 12:02:21 $
 ;;
 ;; This dictionary is free software; you can redistribute it and/or
 ;; modify it under the terms of the GNU General Public License as
@@ -36,14 +36,14 @@
 ;;
 ;;; Commentary:
 ;;
-;; SKK-JISYO.Lからconcat関数を除くLispの関数の候補を抜き出し
-;; skk-relative-date関数を追加した辞書です。
+;; SKK-JISYO.L から concat 関数を除く Lisp の関数の候補を抜き出し
+;; skk-relative-date 関数を追加した辞書です。
 ;;
-;; concat関数を含む候補は、SKK辞書形式における候補の区切りである"/"や
-;; 候補と注釈の区切りである";"をエスケープする目的で使用されていると
-;; 考えられる為SKK-JISYO.Lに残しています。
+;; concat 関数を含む候補は、SKK 辞書形式における候補の区切りである "/" や
+;; 候補と注釈の区切りである ";" をエスケープする目的で使用されていると
+;; 考えられる為 SKK-JISYO.L に残しています。
 ;;
-;; プログラム実行変換で用いられるLispの関数を拡張する際はこの辞書を
+;; プログラム実行変換で用いられる Lisp の関数を拡張する際はこの辞書を
 ;; 更新していって頂ければと思います。
 ;;
 ;; okuri-ari entries.
@@ -61,6 +61,8 @@
 #ねんまえ /(skk-relative-date (lambda (date-information format gengo and-time) (skk-default-current-date date-information "%s年" 0 nil 0 0 0)) nil nil :yy -#0)/(skk-relative-date (lambda (date-information format gengo and-time) (skk-default-current-date date-information "%s年" 0 'gengo 0 0 0)) nil nil :yy -#0)/(skk-relative-date (lambda (date-information format gengo and-time) (skk-default-current-date date-information "%s年" 3 'gengo 0 0 0)) nil nil :yy -#0)/
 bar /(make-string (- fill-column 1) ?-)/
 line /(make-string (- (window-width) 5) ?-)/(make-string (- (window-width) 5) (string-to-char comment-start))/
+mail /(symbol-value 'user-mail-address)/
+name /(symbol-value 'user-full-name)/
 now /(current-time-string)/(substring (current-time-string) 11 16)/(substring (current-time-string) 11 19)/
 pwd /(pwd)/
 skk /(skk-version)/
