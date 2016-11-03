@@ -1,3 +1,32 @@
+;; Copyright (C) 1988-1995, 1997, 1999-2010, 2014-2015
+;;
+;; Masahiko Sato <masahiko@kuis.kyoto-u.ac.jp>
+;; Hironobu Takahashi <takahasi@tiny.or.jp>,
+;; Masahiro Doteguchi, Miki Inooka,
+;; Yukiyoshi Kameyama <kameyama@kuis.kyoto-u.ac.jp>,
+;; Akihiko Sasaki, Dai Ando, Junichi Okukawa,
+;; Katsushi Sato and Nobuhiro Yamagishi
+;; NAKAJIMA Mikio <minakaji@osaka.email.ne.jp>
+;; MITA Yuusuke <clefs@mail.goo.ne.jp>
+;; Tsuyoshi Kitamoto <tsuyoshi.kitamoto@gmail.com>
+;; SASAKI Nobuyuki <nathancorvussolis@gmail.com>
+;; SKK Development Team <skk@ring.gr.jp>
+;;
+;; This dictionary is free software; you can redistribute it and/or
+;; modify it under the terms of the GNU General Public License as
+;; published by the Free Software Foundation; either version 2, or
+;; (at your option) any later version.
+;;
+;; This dictionary is distributed in the hope that it will be useful,
+;; but WITHOUT ANY WARRANTY; without even the implied warranty of
+;; MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+;; General Public License for more details.
+;;
+;; You should have received a copy of the GNU General Public License
+;; along with Daredevil SKK, see the file COPYING.  If not, write to
+;; the Free Software Foundation Inc., 59 Temple Place - Suite 330,
+;; Boston, MA 02111-1307, USA.
+;;
 ;; okuri-ari entries.
 ;; okuri-nasi entries.
 #feet /(skk-gadget-units-conversion "feet" (string-to-number (car skk-num-list)) "inch")/(skk-gadget-units-conversion "feet" (string-to-number (car skk-num-list)) "yard")/(skk-gadget-units-conversion "feet" (string-to-number (car skk-num-list)) "m")/(skk-gadget-units-conversion "feet" (string-to-number (car skk-num-list)) "cm")/(skk-gadget-units-conversion "feet" (string-to-number (car skk-num-list)) "mm")/

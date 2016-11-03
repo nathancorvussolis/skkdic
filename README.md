@@ -2,13 +2,21 @@
 
   * http://openlab.ring.gr.jp/skk/skk/dic/ のミラー (2016/11/01)
 
-* SKK-JISYO.IVD.UTF16.TXT
+* ivd-2014-05-16/
 
-  * Unicode IVD 2014-05-16 異体字辞書 (UTF-16, LE, BOMあり, CR+LF)
+  * Unicode IVD 2014-05-16 異体字辞書
 
-* SKK-JISYO.IVD.UTF8.TXT
+    * skk-jisyo.ivd.utf16.txt (UTF-16, LE, BOMあり, CR+LF)
 
-  * Unicode IVD 2014-05-16 異体字辞書 (UTF-8, LF)
+    * skk-jisyo.ivd.utf8.txt (UTF-8, LF)
+
+* ivd-2016-08-15/
+
+  * Unicode IVD 2016-08-15 異体字辞書
+
+    * skk-jisyo.ivd.utf16.txt (UTF-16, LE, BOMあり, CR+LF)
+
+    * skk-jisyo.ivd.utf8.txt (UTF-8, LF)
 
 * skk-omikuji.txt
 
