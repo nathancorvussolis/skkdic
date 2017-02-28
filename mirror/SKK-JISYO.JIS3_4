@@ -1,4 +1,4 @@
-;; -*- mode: fundamental; coding: euc-jisx0213 -*-
+;; -*- mode: fundamental; coding: euc-jis-2004 -*-
 ;; JIS LEVEL 3 and 4 Kanji dictionary for SKK system
 ;;
 ;; Copyright (C) 1993 Wnn Consortium
@@ -8,9 +8,9 @@
 ;;         KAWABATA, Taichi <batta@beige.ocn.ne.jp>
 ;;         もりみつじゅんじ <earthian@tama.or.jp>
 ;; Maintainer: SKK Development Team <skk@ring.gr.jp>
-;; Version: $Id: SKK-JISYO.JIS3_4,v 1.75 2015/01/20 09:23:30 skk-cvs Exp $
+;; Version: $Id: SKK-JISYO.JIS3_4,v 1.76 2017/02/25 21:06:04 skk-cvs Exp $
 ;; Keywords: japanese
-;; Last Modified: $Date: 2015/01/20 09:23:30 $
+;; Last Modified: $Date: 2017/02/25 21:06:04 $
 ;;
 ;; This dictionary is free software; you can redistribute it and/or modify
 ;; it under the terms of the GNU General Public License as published by
