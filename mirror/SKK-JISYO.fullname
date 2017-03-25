@@ -1,12 +1,13 @@
+;; -*- mode: fundamental; coding: euc-jp -*-
 ;; フルネーム辞書 for SKK system
 ;; Copyright (C) 2004-2006 Akie Kaidoh <kaidoh@ma.ctk.ne.jp>
 ;; Copyright (C) 2004-2006 SKK Development Team <skk@ring.gr.jp>
 ;;
 ;; Author: Akie Kaidoh <kaidoh@ma.ctk.ne.jp>
 ;; Maintainer: SKK Development Team <skk@ring.gr.jp>
-;; Version: $Id: SKK-JISYO.fullname,v 1.10 2011/01/21 23:23:03 skk-cvs Exp $
+;; Version: $Id: SKK-JISYO.fullname,v 1.11 2017/03/24 10:14:05 skk-cvs Exp $
 ;; Keywords: japanese
-;; Last Modified: $Date: 2011/01/21 23:23:03 $
+;; Last Modified: $Date: 2017/03/24 10:14:05 $
 ;;
 ;; This dictionary is free software; you can redistribute it and/or
 ;; modify it under the terms of the GNU General Public License as

@@ -4,10 +4,10 @@
 ;;               SKK Development Team <skk@ring.gr.jp>
 ;;
 ;; Maintainer: SKK Development Team <skk@ring.gr.jp>
-;; Version: $Id: SKK-JISYO.wrong.annotated,v 1.143 2015/01/22 11:01:14 skk-cvs Exp $
+;; Version: $Id: SKK-JISYO.wrong.annotated,v 1.144 2017/03/24 10:18:37 skk-cvs Exp $
 ;; Keywords: japanese
 ;; Created: Sep. 23, 2000
-;; Last Modified: $Date: 2015/01/22 11:01:14 $
+;; Last Modified: $Date: 2017/03/24 10:18:37 $
 ;;
 ;; This dictionary is free software; you can redistribute it and/or
 ;; modify it under the terms of the GNU General Public License as
@@ -667,6 +667,7 @@ zigsaw /ジグソーパズル;見出し語typo. {z->j}igsaw/
 きんきゅうひなん /緊急非難;《事故にあったらまず相手をせめよう》「緊急避難」の誤りか。/
 きんこう />近郊;">"の位置が不適切/
 きんぞく /勤属;{属->続}/
+きんだいちこうすけ /金田一耕介;{介->助}/
 きんにくしょうじょたい /筋肉少女隊;{隊->帯}/
 きんぺん />近辺;">"の位置が不適切/
 ぎいんないかくせい /議員内閣制;《たぶん「議院」の間違い》危険なタイプのtypo/

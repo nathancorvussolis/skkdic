@@ -5,9 +5,9 @@
 ;; IIDA Yosiaki <iida@ring.gr.jp>
 ;;
 ;; Maintainer: SKK Development Team <skk@ring.gr.jp>
-;; Version: $Id: SKK-JISYO.geo,v 1.28 2015/01/23 21:40:10 skk-cvs Exp $
+;; Version: $Id: SKK-JISYO.geo,v 1.30 2017/03/22 21:09:01 skk-cvs Exp $
 ;; Keywords: japanese
-;; Last Modified: $Date: 2015/01/23 21:40:10 $
+;; Last Modified: $Date: 2017/03/22 21:09:01 $
 ;;
 ;; This dictionary is free software; you can redistribute it and/or modify
 ;; it under the terms of the GNU General Public License as published by
@@ -14410,6 +14410,7 @@ Dongguan /東莞;中国広東省の都市。‖これだけ浮いてる？/
 おうしま /黄島/
 おうしまちょう /黄島町/
 おうしゅう /奥州/
+おうしゅうし /奥州市/
 おうしゅうたいりく /欧州大陸/
 おうしゅうまち /奥州町/
 おうしゅく /鶯宿/
@@ -44209,7 +44210,6 @@ Dongguan /東莞;中国広東省の都市。‖これだけ浮いてる？/
 さっぽろし /札幌市/
 さっぽろしあつべつく /札幌市厚別区/
 さっぽろしきたく /札幌市北区/
-さっぽろしきたくきた /札幌市北区北/
 さっぽろしきよたく /札幌市清田区/
 さっぽろししろいしく /札幌市白石区/
 さっぽろしちゅうおうく /札幌市中央区/

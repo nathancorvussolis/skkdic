@@ -4,9 +4,9 @@
 ;;
 ;; Author: OMRON SOFTWARE Co., Ltd. <freewnn@rd.kyoto.omronsoft.co.jp>
 ;; Maintainer: SKK Development Team <skk@ring.gr.jp>
-;; Version: $Id: SKK-JISYO.jinmei,v 1.272 2015/01/22 11:01:13 skk-cvs Exp $
+;; Version: $Id: SKK-JISYO.jinmei,v 1.273 2017/03/24 10:14:06 skk-cvs Exp $
 ;; Keywords: japanese
-;; Last Modified: $Date: 2015/01/22 11:01:13 $
+;; Last Modified: $Date: 2017/03/24 10:14:06 $
 ;;
 ;; This dictionary is free software; you can redistribute it and/or
 ;; modify it under the terms of the GNU General Public License as
@@ -5438,7 +5438,7 @@ zienkiewicz /ツィエンキーヴィッツ;数学者/
 きんたろう /金太郎;人名/
 きんだいち /金田一;姓/
 きんだいちきょうすけ /金田一京助;人名/
-きんだいちこうすけ /金田一耕介;人名,フルネーム/
+きんだいちこうすけ /金田一耕助;人名,フルネーム/
 きんだいちはるひこ /金田一春彦;人名,フルネーム/
 きんだいちゅう /金大中;人名 韓国/
 きんだま /金玉;人名/
