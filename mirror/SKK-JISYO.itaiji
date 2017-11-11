@@ -7,9 +7,9 @@
 ;; the source dictionary, containing only letters in JIS1 and JIS2.
 ;;
 ;; Maintainer: SKK Development Team <skk@ring.gr.jp>
-;; Version: $Id: SKK-JISYO.itaiji,v 1.6 2007/04/13 22:32:28 skk-cvs Exp $
+;; Version: $Id: SKK-JISYO.itaiji,v 1.7 2017/06/05 13:04:18 yutopia Exp $
 ;; Keywords: japanese
-;; Last Modified: $Date: 2007/04/13 22:32:28 $
+;; Last Modified: $Date: 2017/06/05 13:04:18 $
 ;;
 ;;; Commentary:
 ;;
@@ -458,8 +458,7 @@
 Äş /îª/
 Å´ /îî/ïÄ/ïÅ/
 Å» /åõ/
-Å¾ /Å¿/íÛ;<¿ÍÌ¾ÍÑ´Á»ú>/
-Å¿ /íÛ;<¿ÍÌ¾ÍÑ´Á»ú>/Å¾/
+Å¾ /íÛ;<¿ÍÌ¾ÍÑ´Á»ú>/
 ÅÀ /óÚ/
 ÅÁ /Ñ£;<¿ÍÌ¾ÍÑ´Á»ú>/
 ÅÆ /ÅÑ/Ñ½/è¹/
@@ -1389,7 +1388,7 @@
 íÍ /íÌ/
 íÑ /ÑÀ/íÒ/Î¾/
 íÒ /ÑÀ/íÑ/Î¾/
-íÛ /Å¿/Å¾/
+íÛ /Å¾/
 íà /íá/
 íá /íà/
 íæ /¼­/
