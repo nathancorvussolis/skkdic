@@ -10,6 +10,10 @@
 
   * Unicode IVD 2016-08-15 異体字辞書 (UTF-8, LF)
 
+* ivd-2017-12-12/skk-jisyo.ivd.txt
+
+  * Unicode IVD 2017-12-12 異体字辞書 (UTF-8, LF)
+
 * skk-omikuji.txt
 
   * skk-omikuji 辞書 (UTF-8, LF)
