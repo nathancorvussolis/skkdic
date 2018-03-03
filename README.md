@@ -1,6 +1,6 @@
 * mirror/
 
-  * http://openlab.ring.gr.jp/skk/skk/dic/ のミラー (2017/11/11)
+  * http://openlab.ring.gr.jp/skk/skk/dic/ のミラー (2018/03/03)
 
 * ivd-2014-05-16/skk-jisyo.ivd.txt
 
