@@ -24,6 +24,11 @@
   おみくじ /(skk-omikuji)/
   ````
 
+* skk-strftime.txt
+
+  * skk-strftime 辞書 (UTF-8, LF)
+  * CorvusSKK独自拡張
+
 * skk-gadget-units-conversion.txt
 
   * skk-gadget-units-conversion 辞書 (UTF-8, LF)
