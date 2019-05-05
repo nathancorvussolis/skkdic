@@ -1,6 +1,6 @@
 * mirror/
 
-  * http://openlab.ring.gr.jp/skk/skk/dic/ のミラー (2018/12/07)
+  * **Removed.** Alternatively, see https://skk-dev.github.io/dict/.
 
 * ivd-2014-05-16/skk-jisyo.ivd.txt
 
