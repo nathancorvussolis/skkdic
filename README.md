@@ -37,3 +37,8 @@
 
   * naist-jdic-0.4.3を変換したSKK辞書です。 (UTF-16, LE, BOMあり, CR+LF)
   * 固有名詞と冗長な語を除外し候補の順序を生起コストでソートしています。
+
+* skk-ashide003-1.txt
+
+  * 葦手入力 第三版初訂 を変換したSKK辞書です。 (UTF-8, LF)
+  * http://ashide.s1007.xrea.com/files/ashide003-1.txt
