@@ -17,12 +17,7 @@
 * [skk-omikuji.txt](skk-omikuji.txt)
 
   * skk-omikuji 辞書 (UTF-8, LF)
-
-  ````
-  ;; okuri-ari entries.
-  ;; okuri-nasi entries.
-  おみくじ /(skk-omikuji)/
-  ````
+  * CorvusSKK独自拡張
 
 * [skk-strftime.txt](skk-strftime.txt)
 
