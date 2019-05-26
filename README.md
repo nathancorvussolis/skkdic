@@ -1,6 +1,6 @@
 * mirror/
 
-  * **Removed.** Alternatively, see https://skk-dev.github.io/dict/.
+  * **Removed.** Alternatively, see [https://skk-dev.github.io/dict/](https://skk-dev.github.io/dict/).
 
 * [ivd-2014-05-16/skk-jisyo.ivd.txt](ivd-2014-05-16/skk-jisyo.ivd.txt)
 
