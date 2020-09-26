@@ -37,3 +37,8 @@
 
   * [葦手入力](http://ashide.s1007.xrea.com/) 第三版初訂 を変換したSKK辞書です。 (UTF-8, LF)
   * http://ashide.s1007.xrea.com/files/ashide003-1.txt
+
+* [skk-ashide004.txt](skk-ashide004.txt)
+
+  * [葦手入力](https://ashide.otodo.net/) 第四版 を変換したSKK辞書です。 (UTF-8, LF)
+  * https://ashide.otodo.net/files/040/ashide004.txt
