@@ -33,17 +33,14 @@
   * naist-jdic-0.4.3を変換したSKK辞書です。 (UTF-16, LE, BOMあり, CR+LF)
   * 固有名詞と冗長な語を除外し候補の順序を生起コストでソートしています。
 
-* [skk-ashide005.txt](skk-ashide005.txt)
+* [skk-ashide050.txt](skk-ashide050.txt)
 
   * [葦手入力](https://ashide.otodo.net/) 第5版 を変換したSKK辞書です。 (UTF-8, LF)
-  * https://ashide.otodo.net/files/050/ashide050.txt
 
 * [skk-ashide004.txt](skk-ashide004.txt)
 
   * [葦手入力](https://ashide.otodo.net/) 第四版 を変換したSKK辞書です。 (UTF-8, LF)
-  * https://ashide.otodo.net/files/040/ashide004.txt
 
 * [skk-ashide003-1.txt](skk-ashide003-1.txt)
 
   * [葦手入力](https://ashide.otodo.net/) 第三版初訂 を変換したSKK辞書です。 (UTF-8, LF)
-  * https://ashide.otodo.net/files/031/ashide003-1.txt
