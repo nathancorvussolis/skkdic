@@ -14,6 +14,10 @@
 
   * Unicode IVD 2017-12-12 異体字辞書 (UTF-8, LF)
 
+* [ivd-2020-11-06/skk-jisyo.ivd.txt](ivd-2020-11-06/skk-jisyo.ivd.txt)
+
+  * Unicode IVD 2020-11-06 異体字辞書 (UTF-8, LF)
+
 * [skk-omikuji.txt](skk-omikuji.txt)
 
   * skk-omikuji 辞書 (UTF-8, LF)
