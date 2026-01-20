@@ -6,7 +6,8 @@
 |---|---|
 | [skk-omikuji.txt](skk-omikuji.txt) | skk-omikuji (UTF-8, LF)<br>CorvusSKK独自拡張 |
 | [skk-strftime.txt](skk-strftime.txt) | skk-strftime (UTF-8, LF)<br>CorvusSKK独自拡張 |
-| [skk-gadget-units-conversion.txt](skk-gadget-units-conversion.txt) | skk-gadget-units-conversion (UTF-8, LF) |
+| [skk-gadget-units-conversion.txt](skk-gadget-units-conversion.txt) | skk-gadget-units-conversion (UTF-8, LF) CorvusSKK 3.3.1 まで |
+| [skk-gadget-units-conversion-v2.txt](skk-gadget-units-conversion-v2.txt) | skk-gadget-units-conversion (UTF-8, LF) CorvusSKK 3.3.2 以降 |
 
 
 ### [Unicode IVD](https://www.unicode.org/ivd/) 異体字

@@ -1,0 +1,57 @@
+;; Copyright (C) 1988-1995, 1997, 1999-2010, 2014-2015
+;;
+;; Masahiko Sato <masahiko@kuis.kyoto-u.ac.jp>
+;; Hironobu Takahashi <takahasi@tiny.or.jp>,
+;; Masahiro Doteguchi, Miki Inooka,
+;; Yukiyoshi Kameyama <kameyama@kuis.kyoto-u.ac.jp>,
+;; Akihiko Sasaki, Dai Ando, Junichi Okukawa,
+;; Katsushi Sato and Nobuhiro Yamagishi
+;; NAKAJIMA Mikio <minakaji@osaka.email.ne.jp>
+;; MITA Yuusuke <clefs@mail.goo.ne.jp>
+;; Tsuyoshi Kitamoto <tsuyoshi.kitamoto@gmail.com>
+;; SASAKI Nobuyuki <nathancorvussolis@gmail.com>
+;; SKK Development Team <skk@ring.gr.jp>
+;;
+;; This dictionary is free software; you can redistribute it and/or
+;; modify it under the terms of the GNU General Public License as
+;; published by the Free Software Foundation; either version 2, or
+;; (at your option) any later version.
+;;
+;; This dictionary is distributed in the hope that it will be useful,
+;; but WITHOUT ANY WARRANTY; without even the implied warranty of
+;; MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+;; General Public License for more details.
+;;
+;; You should have received a copy of the GNU General Public License
+;; along with Daredevil SKK, see the file COPYING.  If not, write to
+;; the Free Software Foundation Inc., 59 Temple Place - Suite 330,
+;; Boston, MA 02111-1307, USA.
+;;
+;; okuri-ari entries.
+;; okuri-nasi entries.
+#feet /(skk-gadget-units-conversion "feet" (string-to-number (car skk-num-list)) "inch")/(skk-gadget-units-conversion "feet" (string-to-number (car skk-num-list)) "yard")/(skk-gadget-units-conversion "feet" (string-to-number (car skk-num-list)) "mile")/(skk-gadget-units-conversion "feet" (string-to-number (car skk-num-list)) "m")/(skk-gadget-units-conversion "feet" (string-to-number (car skk-num-list)) "mm")/
+#grain /(skk-gadget-units-conversion "grain" (string-to-number (car skk-num-list)) "pound")/(skk-gadget-units-conversion "grain" (string-to-number (car skk-num-list)) "ounce")/(skk-gadget-units-conversion "grain" (string-to-number (car skk-num-list)) "g")/(skk-gadget-units-conversion "grain" (string-to-number (car skk-num-list)) "mg")/
+#inch /(skk-gadget-units-conversion "inch" (string-to-number (car skk-num-list)) "feet")/(skk-gadget-units-conversion "inch" (string-to-number (car skk-num-list)) "yard")/(skk-gadget-units-conversion "inch" (string-to-number (car skk-num-list)) "mile")/(skk-gadget-units-conversion "inch" (string-to-number (car skk-num-list)) "m")/(skk-gadget-units-conversion "inch" (string-to-number (car skk-num-list)) "mm")/
+#mile /(skk-gadget-units-conversion "mile" (string-to-number (car skk-num-list)) "yard")/(skk-gadget-units-conversion "mile" (string-to-number (car skk-num-list)) "feet")/(skk-gadget-units-conversion "mile" (string-to-number (car skk-num-list)) "inch")/(skk-gadget-units-conversion "mile" (string-to-number (car skk-num-list)) "m")/(skk-gadget-units-conversion "mile" (string-to-number (car skk-num-list)) "km")/
+#ounce /(skk-gadget-units-conversion "ounce" (string-to-number (car skk-num-list)) "pound")/(skk-gadget-units-conversion "ounce" (string-to-number (car skk-num-list)) "grain")/(skk-gadget-units-conversion "ounce" (string-to-number (car skk-num-list)) "g")/
+#pound /(skk-gadget-units-conversion "pound" (string-to-number (car skk-num-list)) "ounce")/(skk-gadget-units-conversion "pound" (string-to-number (car skk-num-list)) "grain")/(skk-gadget-units-conversion "pound" (string-to-number (car skk-num-list)) "g")/(skk-gadget-units-conversion "pound" (string-to-number (car skk-num-list)) "kg")/
+#yard /(skk-gadget-units-conversion "yard" (string-to-number (car skk-num-list)) "feet")/(skk-gadget-units-conversion "yard" (string-to-number (car skk-num-list)) "inch")/(skk-gadget-units-conversion "yard" (string-to-number (car skk-num-list)) "mile")/(skk-gadget-units-conversion "yard" (string-to-number (car skk-num-list)) "m")/(skk-gadget-units-conversion "yard" (string-to-number (car skk-num-list)) "mm")/
+#かん /(skk-gadget-units-conversion "貫" (string-to-number (car skk-num-list)) "kg")/(skk-gadget-units-conversion "貫" (string-to-number (car skk-num-list)) "g")/
+#きん /(skk-gadget-units-conversion "斤" (string-to-number (car skk-num-list)) "kg")/(skk-gadget-units-conversion "斤" (string-to-number (car skk-num-list)) "g")/
+#けん /(skk-gadget-units-conversion "間" (string-to-number (car skk-num-list)) "m")/
+#こく /(skk-gadget-units-conversion "石" (string-to-number (car skk-num-list)) "L")/(skk-gadget-units-conversion "石" (string-to-number (car skk-num-list)) "mL")/
+#ごう /(skk-gadget-units-conversion "合" (string-to-number (car skk-num-list)) "L")/(skk-gadget-units-conversion "合" (string-to-number (car skk-num-list)) "mL")/(skk-gadget-units-conversion "合" (string-to-number (car skk-num-list)) "㎡")/
+#しゃく /(skk-gadget-units-conversion "尺" (string-to-number (car skk-num-list)) "m")/(skk-gadget-units-conversion "尺" (string-to-number (car skk-num-list)) "mm")/(skk-gadget-units-conversion "勺" (string-to-number (car skk-num-list)) "L")/(skk-gadget-units-conversion "勺" (string-to-number (car skk-num-list)) "mL")/(skk-gadget-units-conversion "勺" (string-to-number (car skk-num-list)) "㎡")/
+#しょう /(skk-gadget-units-conversion "升" (string-to-number (car skk-num-list)) "L")/(skk-gadget-units-conversion "升" (string-to-number (car skk-num-list)) "mL")/
+#じょう /(skk-gadget-units-conversion "丈" (string-to-number (car skk-num-list)) "m")/
+#すん /(skk-gadget-units-conversion "寸" (string-to-number (car skk-num-list)) "m")/(skk-gadget-units-conversion "寸" (string-to-number (car skk-num-list)) "mm")/
+#せ /(skk-gadget-units-conversion "畝" (string-to-number (car skk-num-list)) "㎡")/
+#たん /(skk-gadget-units-conversion "反" (string-to-number (car skk-num-list)) "㎡")/
+#ちょう /(skk-gadget-units-conversion "町" (string-to-number (car skk-num-list)) "m")/(skk-gadget-units-conversion "町" (string-to-number (car skk-num-list)) "㎡")/
+#つぼ /(skk-gadget-units-conversion "坪" (string-to-number (car skk-num-list)) "㎡")/
+#と /(skk-gadget-units-conversion "斗" (string-to-number (car skk-num-list)) "L")/(skk-gadget-units-conversion "斗" (string-to-number (car skk-num-list)) "mL")/
+#ぶ /(skk-gadget-units-conversion "分" (string-to-number (car skk-num-list)) "m")/(skk-gadget-units-conversion "分" (string-to-number (car skk-num-list)) "mm")/(skk-gadget-units-conversion "歩" (string-to-number (car skk-num-list)) "㎡")/(skk-gadget-units-conversion "分" (string-to-number (car skk-num-list)) "kg")/(skk-gadget-units-conversion "分" (string-to-number (car skk-num-list)) "g")/
+#もう /(skk-gadget-units-conversion "毛" (string-to-number (car skk-num-list)) "m")/(skk-gadget-units-conversion "毛" (string-to-number (car skk-num-list)) "mm")/(skk-gadget-units-conversion "毛" (string-to-number (car skk-num-list)) "kg")/(skk-gadget-units-conversion "毛" (string-to-number (car skk-num-list)) "g")/
+#もんめ /(skk-gadget-units-conversion "匁" (string-to-number (car skk-num-list)) "kg")/(skk-gadget-units-conversion "匁" (string-to-number (car skk-num-list)) "g")/
+#り /(skk-gadget-units-conversion "里" (string-to-number (car skk-num-list)) "m")/(skk-gadget-units-conversion "里" (string-to-number (car skk-num-list)) "km")/
+#りん /(skk-gadget-units-conversion "厘" (string-to-number (car skk-num-list)) "m")/(skk-gadget-units-conversion "厘" (string-to-number (car skk-num-list)) "mm")/(skk-gadget-units-conversion "厘" (string-to-number (car skk-num-list)) "kg")/(skk-gadget-units-conversion "厘" (string-to-number (car skk-num-list)) "g")/
